@@ -41,6 +41,10 @@ mceiba@gmail.com
 
 Copyright 2012 mceiba.
 
-许可遵守Apache License 2.0，许可文件：
+代码遵守Apache License 2.0，许可文件：
 
-   <http://www.apache.org/licenses/LICENSE-2.0>
+	<http://www.apache.org/licenses/LICENSE-2.0>
+
+文档及相关图标遵守CC BY 3.0，许可文件：
+
+	<http://creativecommons.org/licenses/by/3.0/>
