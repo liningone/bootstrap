@@ -3,7 +3,7 @@
 
 twitter-bootstrap是一个快速、优美的web前端工具，提供了简单、灵活的HTML、CSS和Javascript组建。是很好的web前端学习资料，当然你也可以将它直接用于项目开发。 [Bootstrap](https://github.com/twitter/bootstrap)由Twitter的[Mark Otto](http://twitter.com/mdo) 和[Jacob Thornton](http://twitter.com/fat) 创建维护，我的工作是在学习的同时将它的文档翻译为中文。
 
-你可以关注我的项目<http://www.mceiba.com/twitter-bootstrap>，或者原项目<http://twitter.github.com/bootstrap>!
+你可以关注我的项目<http://www.mceiba.com/open/twitter-bootstrap>，或者原项目<http://twitter.github.com/bootstrap>!
 
 
 快速开始
