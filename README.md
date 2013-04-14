@@ -32,7 +32,7 @@ mceiba@gmail.com
 **mceiba**
 
 + <http://mceiba.com>
-+ <http://twitter.com/zhangsp>
++ <http://twitter.com/sanpingz>
 + <http://github.com/mceiba>
 
 
